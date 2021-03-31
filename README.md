@@ -1,8 +1,7 @@
 - 👋 Hi, ich bin cris
 - 👀 I’m interested in frontend 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 cristianfmb1205/cristianfmb1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
